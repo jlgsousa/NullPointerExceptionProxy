@@ -1,1 +1,3 @@
-"# NullPointerExceptionProxy" 
+# NullPointerExceptionProxy
+
+A maybe futile attempt to solve all nullpointer exception problems in Java ...
